@@ -1,3 +1,15 @@
+"""
+
+Program: test_coupon_calculations.py
+
+Author: Chase Van Blair
+
+Last date modified: 06/10/2020
+
+
+The purpose of this program is to test the nested if example written in the coupon_calculation file
+
+"""
 from store.coupon_calculations import calculate_price
 
 
